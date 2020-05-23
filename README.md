@@ -1,2 +1,2 @@
-# Leet-Code-Solutions
-daily leetcode solutions for practice
+# Solutions for Leet Code Problems
+Personal Repository for daily practice...
